@@ -1,0 +1,12 @@
+{
+  "name": "premiacao",
+  "displayName": "premiacao",
+  "expo": {
+    "name": "premiacao",
+    "slug": "premiacao",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
